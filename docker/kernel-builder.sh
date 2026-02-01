@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd "$(dirname "$(realpath "$0")")"
+
 RED="\e[31m"
 RESET="\e[0m"
 GREEN="\e[32m"
