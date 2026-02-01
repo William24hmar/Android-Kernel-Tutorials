@@ -57,6 +57,7 @@ RUN apt-get update && apt-get install -y \
     p7zip-full \
     pahole \
     procps \
+    python2 \
     python-is-python3 \
     python3 \
     python3-markdown \
